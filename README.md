@@ -20,7 +20,7 @@ To select the best article among the 10 we established a based-readability ranki
 - Flesch Reading Ease
 - Flesch-Kincaid Grade Level
 - Gunning Fog Index
-These are measures evaluating the readability of a text. 
+These are measures evaluating the readability of a text based on the word and syllable length.
 The readability scale is based on the American school system: the lower the value, the easier the text is to understand, except for the Flesch Reading Ease formula.
 
 Each article is ranked among the others for each measure. 
